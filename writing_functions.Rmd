@@ -1,0 +1,6 @@
+---
+title: "writing_functions"
+author: "rl3411"
+date: "2023-10-26"
+output: github_document
+---
